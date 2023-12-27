@@ -13,7 +13,7 @@ This project was conducted as part of the Robotics Institute Summer Scholars (RI
 
 This work was done under [Dr.Steven Smith](https://www.cs.cmu.edu/~sfs/) at Carnegie Mellon University, with funding provided by National Science Foundation Award 2038612 and the RISS program. 
 
-You can [download the paper](assets/pdf/RISS2021.pdf) published in the RISS working journals here.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
