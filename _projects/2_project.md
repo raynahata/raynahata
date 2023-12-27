@@ -11,7 +11,7 @@ Guide dogs are a trusted form of assistive navigation for individuals with blind
 
 
 
-This work was done as an honors thesis at Colby College under [Dr.Stacy Doore](https://stacyadoore.com/) of the INSITE Lab and presented at IROS 2023. You can [download the poster](https://raynahata.github.io/assets/img/IROS2023.png) here.
+This work was done as an honors thesis at Colby College under [Dr.Stacy Doore](https://stacyadoore.com/) of the INSITE Lab and presented at IROS 2023. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
