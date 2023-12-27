@@ -21,7 +21,7 @@ I am a Ph.D. student at The Robotics Institute at Carnegie Mellon University foc
 
 I graduated from Colby College in 2023 with a B.A. in Computer Science and Japanese. At Colby, I worked under Professor [Stacy Doore](https://stacyadoore.com/) on robotic guide dogs for the blind. Outside of academcics, I was on the varsity swim team and the club rugby team. 
 
-You can reach me at [rhata@andrew.cmu.edu](rhata@andrew.cmu.edu)
+You can contact me at <a href="mailto:rhata@andrew.cmu.edu">rhata@andrew.cmu.edu</a>.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
