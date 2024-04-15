@@ -12,7 +12,11 @@ While exercising, there is no "one fits all" approach. Every individual reacts d
 
 This work is being done under the supervision of [Dr. Aaron Steinfeld](https://www.cs.cmu.edu/~astein/), in collaboration with [Roshni Kaushik](https://roshk99.github.io/index.html) and [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/), at Carnegie Mellon University.
 
+<<<<<<< Updated upstream
 All work is funded through the [AI-CARING](https://ai-caring.org/) project.
 
+=======
+All work is funded through the [AI-CARING](https://ai-caring.org/) institute.
+>>>>>>> Stashed changes
 
 
