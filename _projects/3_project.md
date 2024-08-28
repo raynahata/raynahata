@@ -17,6 +17,6 @@ This work was done under [Dr.Steven Smith](https://www.cs.cmu.edu/~sfs/) at Carn
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2022RISS.png" title="RISS 2022 Poster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/2022RISS.png" title="RISS 2022 Poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

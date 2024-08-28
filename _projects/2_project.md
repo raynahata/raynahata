@@ -13,6 +13,6 @@ This work was done as an honors thesis at Colby College under [Dr.Stacy Doore](h
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IROS2023.png" title="IROS 2023 Poster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IROS2023.png" title="IROS 2023 Poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
