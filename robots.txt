@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://raynahata.github.io/sitemap.xml
+Sitemap: https://raynahata.github.io/raynahata/sitemap.xml
