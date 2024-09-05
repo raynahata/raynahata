@@ -2,7 +2,7 @@
 layout: page
 title: Personalized Feedback, Guidance, and Motivation for Older Adults Exercising  
 description: Current Project 
-img: 
+img: assets/img/quori_study.png
 importance: 
 category: 
 related_publications: 
@@ -15,5 +15,4 @@ These initial conversations can provide invaluable insights, enabling exercise c
 This work is being done under the supervision of [Dr. Aaron Steinfeld](https://www.cs.cmu.edu/~astein/), in collaboration with [Roshni Kaushik](https://roshk99.github.io/index.html) and [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/), at Carnegie Mellon University.
 
 All work is funded through the [AI-CARING](https://ai-caring.org/) project.
-
 
