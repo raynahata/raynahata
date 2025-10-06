@@ -23,12 +23,12 @@ I graduated from Colby College in 2023 with a B.A. in Computer Science and Japan
 
 You can contact me at <a href="mailto:rhata@andrew.cmu.edu">rhata@andrew.cmu.edu</a>.
 
-<p style="margin-top: 10px;">
-  <a href="mailto:rhata@andrew.cmu.edu" title="Email">
-    <i class="fas fa-envelope fa-lg" style="margin-right: 15px;"></i>
+<p style="margin-top: 10px; display: flex; gap: 20px; align-items: center;">
+  <a href="mailto:rhata@andrew.cmu.edu" title="Email" style="display: inline-flex;">
+    <i class="fas fa-envelope fa-lg" aria-hidden="true"></i>
   </a>
-  <a href="https://scholar.google.com/citations?user=N5ZLXT8AAAAJ&hl=en&inst=3203679203499159833" title="Google Scholar">
-    <i class="ai ai-google-scholar ai-lg"></i>
+  <a href="https://scholar.google.com/citations?user=N5ZLXT8AAAAJ&hl=en&inst=3203679203499159833" title="Google Scholar" style="display: inline-flex;">
+    <i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i>
   </a>
 </p>
 
