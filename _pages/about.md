@@ -18,9 +18,19 @@ social: False # includes social icons at the bottom of the page
 
 I am a Ph.D. student at The Robotics Institute at Carnegie Mellon University focusing on Accessibility and Human-Robot Interactions (HRI). I am advised by Professor [Aaron Steinfeld](https://www.cs.cmu.edu/~astein/) and am part of the [Transportation, Bots, and Disability Lab](https://tbd.ri.cmu.edu/). 
 
+
 I graduated from Colby College in 2023 with a B.A. in Computer Science and Japanese. At Colby, I worked under Professor [Stacy Doore](https://stacyadoore.com/) on robotic guide dogs for the blind. Outside of academics, I was on the varsity swim team and the club rugby team. 
 
 You can contact me at <a href="mailto:rhata@andrew.cmu.edu">rhata@andrew.cmu.edu</a>.
+
+<p style="margin-top: 10px;">
+  <a href="mailto:rhata@andrew.cmu.edu" title="Email">
+    <i class="fas fa-envelope fa-lg" style="margin-right: 15px;"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=N5ZLXT8AAAAJ&hl=en&inst=3203679203499159833" title="Google Scholar">
+    <i class="ai ai-google-scholar ai-lg"></i>
+  </a>
+</p>
 
 
 <!-- ---
