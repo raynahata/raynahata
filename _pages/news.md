@@ -6,12 +6,14 @@ nav: true
 nav_order: 3
 ---
 
-<ul>
-  {% assign items = site.news | sort: "date" | reverse %}
-  {% for item in items %}
-    <li>
-      <strong>{{ item.date | date: "%b %d, %Y" }}</strong>:
-      {{ item.title }}
-    </li>
-  {% endfor %}
-</ul>
+{% assign items = site.news | sort: "date" | reverse %}
+{% for item in items %}
+  <div style="margin-bottom: 1.5rem;">
+    <div>
+      <strong>{{ item.date | date: "%b %d, %Y" }}</strong>
+    </div>
+    <div>
+      {{ item.content | markdownify }}
+    </div>
+  </div>
+{% endfor %}
