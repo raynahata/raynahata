@@ -3,7 +3,7 @@ layout: page
 title: Personalized Feedback, Guidance, and Motivation for Older Adults Exercising  
 description: Current Project 
 img: assets/img/quori_study.png
-importance: 
+importance: 1
 category: 
 related_publications: 
 ---

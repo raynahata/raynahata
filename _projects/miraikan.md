@@ -3,7 +3,7 @@ layout: page
 title: Delegation in Social Interaction for Robots Supporting Blind Users
 description: Summer 2025
 img: assets/img/teaser.png
-importance: 
+importance: 2
 category: 
 related_publications: 
 ---
