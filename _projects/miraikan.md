@@ -8,7 +8,11 @@ category:
 related_publications: 
 ---
 
-<img src="/assets/img/teaser.png" alt="Suitcase robot project teaser" style="width:100%; max-width:900px; display:block; margin: 0 auto 2rem auto;">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/teaser.png" title="Suitcase robot project teaser" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 When navigating complex environments, blind and visually impaired individuals often rely on a combination of personal strategies and assistive technologies. However, existing systems rarely support flexible collaboration between humans and robots or account for how such collaboration evolves over time. This project explores how assistive mobile robots can support blind users by enabling meaningful delegation of perception, decision-making, and social interaction, with a particular focus on how delegation shifts across repeated interactions.
 
