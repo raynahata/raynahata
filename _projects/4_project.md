@@ -3,7 +3,7 @@ layout: page
 title: Cacophonic Choir 
 description: 2020
 img: assets/img/Cacophonic.png
-importance: 
+importance: 5
 category: 
 ---
 

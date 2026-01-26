@@ -3,7 +3,7 @@ layout: page
 title: Robotic Guide Dogs for Blind-Low Vision Individuals
 description: 2022-2023
 img: assets/img/SpotProject.png
-importance: 
+importance: 3
 category: 
 giscus_comments: false
 ---

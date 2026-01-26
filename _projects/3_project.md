@@ -3,7 +3,7 @@ layout: page
 title: Blind Pedestrian Navigation on Ubran Crosswalks 
 description: 2021-2022
 img: assets/img/PedPath.png
-importance: 
+importance: 4
 category: 
 ---
 
