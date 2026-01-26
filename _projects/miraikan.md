@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Delegation in Social Interaction for Robots Supporting Blind Users
-description: Research Project  
+description: Summer 2025
 img: assets/img/teaser.png
 importance: 
 category: 
 related_publications: 
 ---
+
+<img src="/assets/img/teaser.png" alt="Suitcase robot project teaser" style="width:100%; max-width:900px; display:block; margin: 0 auto 2rem auto;">
 
 When navigating complex environments, blind and visually impaired individuals often rely on a combination of personal strategies and assistive technologies. However, existing systems rarely support flexible collaboration between humans and robots or account for how such collaboration evolves over time. This project explores how assistive mobile robots can support blind users by enabling meaningful delegation of perception, decision-making, and social interaction, with a particular focus on how delegation shifts across repeated interactions.
 
@@ -16,4 +18,4 @@ Through longitudinal deployments in a museum environment, we examine how blind u
 
 By revealing how delegation develops across extended use, this project contributes new insights into the design of assistive robotic systems that support long-term human–robot collaboration. Ultimately, the goal is to develop robots that not only support navigation, but also empower blind and visually impaired users to engage more confidently and independently with their surroundings.
 
-This work is being conducted in collaboration with researchers at the Miraikan Accessibility Lab, under the supervision of [Dr. Chieko Asakawa](https://www.miraikan.jst.go.jp/en/). 
+This work is being conducted in collaboration with researchers at the Miraikan Accessibility Lab, under the supervision of [Dr. Chieko Asakawa](https://www.miraikan.jst.go.jp/en/).
