@@ -23,3 +23,5 @@ Through longitudinal deployments in a museum environment, we examine how blind u
 By revealing how delegation develops across extended use, this project contributes new insights into the design of assistive robotic systems that support long-term human–robot collaboration. Ultimately, the goal is to develop robots that not only support navigation, but also empower blind and visually impaired users to engage more confidently and independently with their surroundings.
 
 This work is being conducted in collaboration with researchers at the Miraikan Accessibility Lab, under the supervision of [Dr. Chieko Asakawa](https://www.miraikan.jst.go.jp/en/).
+
+This work was published and presented at CHI 2026 in Barcelona, Spain!

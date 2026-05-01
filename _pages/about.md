@@ -16,7 +16,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: False # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at The Robotics Institute at Carnegie Mellon University focusing on Accessibility and Human-Robot Interactions (HRI). I am advised by Professor [Aaron Steinfeld](https://www.cs.cmu.edu/~astein/) and am part of the [Transportation, Bots, and Disability Lab](https://tbd.ri.cmu.edu/). 
+I am a Ph.D. candidate at The Robotics Institute at Carnegie Mellon University focusing on Accessibility and Human-Robot Interactions (HRI). I am advised by Professor [Aaron Steinfeld](https://www.cs.cmu.edu/~astein/) and am part of the [Transportation, Bots, and Disability Lab](https://tbd.ri.cmu.edu/). 
 
 In the summer of 2025, I was a research intern at the [Miraikan Accessibility Lab](https://www.miraikan.jst.go.jp/en/lab/AccessibilityLab/) in Tokyo, where I worked on assistive robotic systems for blind and visually impaired users. 
 
@@ -32,5 +32,8 @@ You can contact me at <a href="mailto:rhata@andrew.cmu.edu">rhata@andrew.cmu.edu
     <i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i>
   </a>
 </p>
+
+
+<strong> I will be interning at Amazon Robotics in Westborough, MA from June to December 2026.</strong>
 
 
