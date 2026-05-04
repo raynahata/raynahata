@@ -7,4 +7,4 @@ related_posts: false
 
 Our paper, *How Does Delegation in Social Interaction Evolve Over Time? Navigation with a Robot for Blind People*, was featured in the CMU Robotics Institute news.
 
-[Link to the article!]( https://www.ri.cmu.edu/more-automation-isnt-always-better/)
+[Link to the article!](https://www.ri.cmu.edu/more-automation-isnt-always-better/)
