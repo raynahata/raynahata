@@ -7,22 +7,26 @@ subtitle:
 profile:
   align: right
   image: RaynaImage.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: 
    
 
-news: true # includes a list of news items
-selected_papers: False # includes a list of papers marked as "selected={true}"
-social: False # includes social icons at the bottom of the page
+news: true
+selected_papers: False
+social: False
 ---
 
-I am a Ph.D. candidate at The Robotics Institute at Carnegie Mellon University focusing on Accessibility and Human-Robot Interactions (HRI). I am advised by Professor [Aaron Steinfeld](https://www.cs.cmu.edu/~astein/) and am part of the [Transportation, Bots, and Disability Lab](https://tbd.ri.cmu.edu/). 
+Hi! I’m Rayna, a Ph.D. candidate at the Robotics Institute at Carnegie Mellon University. I work on accessibility and human-robot interaction (HRI), and I’m advised by Professor [Aaron Steinfeld](https://www.cs.cmu.edu/~astein/) in the [Transportation, Bots, and Disability Lab](https://tbd.ri.cmu.edu/).
 
-In the summer of 2025, I was a research intern at the [Miraikan Accessibility Lab](https://www.miraikan.jst.go.jp/en/lab/AccessibilityLab/) in Tokyo, where I worked on assistive robotic systems for blind and visually impaired users. 
+My research explores how people interact with robots over time, especially in real-world settings. I’m interested in building systems that don’t just work once, but actually adapt to people as their preferences, needs, and behaviors change. A lot of my work involves deploying robots “in the wild” and learning directly from the people who use them.
 
-I graduated from Colby College in 2023 with a B.A. in Computer Science and Japanese. At Colby, I worked under Professor [Stacy Doore](https://stacyadoore.com/) on robotic guide dogs for the blind. Outside of academics, I was on the varsity swim team and the club rugby team. 
+In the summer of 2025, I was a research intern at the [Miraikan Accessibility Lab](https://www.miraikan.jst.go.jp/en/lab/AccessibilityLab/) in Tokyo, where I worked on assistive robotic systems for blind and visually impaired users.
 
-You can contact me at <a href="mailto:rhata@andrew.cmu.edu">rhata@andrew.cmu.edu</a>.
+I graduated from Colby College in 2023 with a B.A. in Computer Science and Japanese. While there, I worked with Professor [Stacy Doore](https://stacyadoore.com/) on robotic guide dogs for blind users. Outside of research, I spent a lot of time in the pool as a varsity swimmer and also played club rugby.
+
+I’m always excited to connect, chat about research, or collaborate on new ideas.
+
+You can reach me at <a href="mailto:rhata@andrew.cmu.edu">rhata@andrew.cmu.edu</a>.
 
 <p style="margin-top: 10px; display: flex; gap: 20px; align-items: center;">
   <a href="mailto:rhata@andrew.cmu.edu" title="Email" style="display: inline-flex;">
@@ -33,7 +37,4 @@ You can contact me at <a href="mailto:rhata@andrew.cmu.edu">rhata@andrew.cmu.edu
   </a>
 </p>
 
-
-<strong> I will be interning at Amazon Robotics in Westborough, MA from June to December 2026.</strong>
-
-
+<strong>I will be interning at Amazon Robotics in Westborough, MA from June to December 2026.</strong>
