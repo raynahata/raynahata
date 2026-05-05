@@ -8,13 +8,16 @@ category:
 related_publications: 
 ---
 
-When it comes to exercise, there is no one-size-fits-all approach. Each individual responds differently to various forms of feedback, highlighting the need for personalized exercise programs tailored to individual needs and preferences. My research explores this personalized approach through the use of a conversational robot that engages users from their very first interaction.
+Exercise is not one-size-fits-all, and that becomes even more clear over time. What motivates someone on day one may not work a few weeks later. This project explores how a robotic exercise coach can adapt not just to different people, but to the same person as their preferences, performance, and needs evolve.
 
-By delivering adaptive feedback, the robot creates a customized exercise experience that is both effective and enjoyable, fostering a sustainable and positive relationship with physical activity. This project aims to encourage aging adults to maintain regular exercise habits with the support of a robotic exercise coach that adapts to their unique preferences.
+I develop and deploy a conversational robotic exercise coach that interacts with users during real exercise sessions. The system provides real-time feedback on performance, guidance on movement, and motivational support, all while engaging users in natural conversation. Rather than treating interaction style as fixed, the robot explores different ways of engaging with users. 
 
-Additionally, we investigate how different robot personalities influence users’ perceptions and motivation toward exercise. While some individuals may prefer a structured coaching approach, others might respond better to a social workout companion. By understanding these preferences, we aim to develop robotic exercise assistants that enhance engagement and promote long-term adherence to physical activity.
+A core part of this work is understanding how these interaction styles influence both objective outcomes, such as exercise performance, and subjective outcomes, such as motivation, comfort, and engagement. In a longitudinal study, we examine how users respond to different robot personalities over repeated sessions and how their preferences shift with experience.
 
-This work is being done under the supervision of [Dr. Aaron Steinfeld](https://www.cs.cmu.edu/~astein/), in collaboration with [Roshni Kaushik](https://roshk99.github.io/index.html) and [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/), at Carnegie Mellon University.
+Building on this, my work moves toward adaptive systems that personalize behavior over time. The goal is to develop a robot that can learn how each individual prefers to be coached, how much feedback they want, and how social or structured the interaction should feel, then adjust accordingly across sessions.
+
+This research is grounded in real-world deployment. By working directly with older adults, we aim to design systems that are not only effective, but also enjoyable, supportive, and sustainable in everyday use.
+
+This work is conducted under the supervision of [Dr. Aaron Steinfeld](https://www.cs.cmu.edu/~astein/), in collaboration with [Roshni Kaushik](https://roshk99.github.io/index.html) and [Dr. Reid Simmons](https://www.cs.cmu.edu/~reids/), at Carnegie Mellon University.
 
 All work is funded through the [AI-CARING](https://ai-caring.org/) project.
-
