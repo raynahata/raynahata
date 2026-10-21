@@ -188,19 +188,14 @@ ul.task-list input[type="checkbox"] {
   align-items: stretch;
 }
 
-.projects figure {
+.project-image-wrapper {
   width: 100%;
-  height: 260px !important;
-  min-height: 260px;
-  margin: 0;
+  height: 260px;
   overflow: hidden;
   flex: 1 1 auto;
 }
 
-.projects .card-img,
-.projects .card-img-top,
-.projects figure img,
-.projects .card img {
+.projects .project-thumb {
   width: 100% !important;
   height: 260px !important;
   min-height: 260px;
