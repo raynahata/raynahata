@@ -183,22 +183,32 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.projects .col-md-6 {
+  display: flex;
+  align-items: stretch;
+}
+
 .projects figure {
-  height: 220px;
+  width: 100%;
+  height: 220px !important;
+  min-height: 220px;
   margin: 0;
   overflow: hidden;
+  flex: 1 1 auto;
 }
 
 .projects .card-img,
 .projects .card-img-top,
 .projects figure img,
 .projects .card img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
+  width: 100% !important;
+  height: 220px !important;
+  min-height: 220px;
+  object-fit: cover !important;
   object-position: center;
   display: block;
   padding-top: 0 !important;
+  border-radius: 0;
 }
 
 .projects .row {
