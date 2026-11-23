@@ -37,4 +37,4 @@ You can reach me at <a href="mailto:rhata@andrew.cmu.edu">rhata@andrew.cmu.edu</
   </a>
 </p>
 
-<strong>I will be interning at Amazon Robotics in Westborough, MA from June to December 2026.</strong>
+<strong>I will be interning at Amazon Robotics in Westborough, MA from June 2026 to May 2027.</strong>
